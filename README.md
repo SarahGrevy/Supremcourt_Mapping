@@ -1,4 +1,4 @@
-# Mapping Supremcourt Cases By Aggreeable and Disagreeable Cases 
+# Mapping Supremcourt Cases By Aggreeable and Disagreeable Language
 
 Final project for Data and Databases class at Columbia Journalism School. 
 
