@@ -1,3 +1,5 @@
-# Mapping Supremcourt Cases By Most Aggreeable and Disagreeable Cases 
+# Mapping Supremcourt Cases By Aggreeable and Disagreeable Cases 
 
-Final project for CJS Data and Databases class
+Final project for Data and Databases class at Columbia Journalism School. 
+
+
