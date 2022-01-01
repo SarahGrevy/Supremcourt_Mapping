@@ -2,6 +2,8 @@
 
 Final project for Data and Databases class at Columbia Journalism School. 
 
+The result of this project is an interactive map of the United States depicting the 13 circuits. Each circuits further depict supremecourt cases from the year 2020 containing the most agreeable and disagreeable langauge. The amount of agreeable/disagreeable langauge was determined by scanning each court case and matching it with dictionaries containing agreeable/disagreeable words and phrases. 
+
 ## Process
 
 * Scrape all of the necessary information from: https://www.supremecourt.gov/oral_arguments/argument_transcript/2021. This should result in a list of dictionaries for each case.
